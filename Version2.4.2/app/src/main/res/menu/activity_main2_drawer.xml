@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/track_calculator"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Kur Notu Hesaplama" />
+        <item
+            android:id="@+id/all_track_calculator"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Kur Ortalamasıyla Geçme" />
+        <item
+            android:id="@+id/flat_IleGecme"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Flat Ortalamasıyla Geçme" />
+
+    </group>
+
+    <item android:title="İletişim">
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Paylaş" />
+            <item
+                android:id="@+id/AboutMe"
+                android:title="Sorun Bildir"
+                android:icon="@drawable/ic_menu_send"
+                />
+
+        </menu>
+    </item>
+
+</menu>

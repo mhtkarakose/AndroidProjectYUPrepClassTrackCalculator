@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "846814911858",
+    "firebase_url": "https://yasarprepclasscalculator.firebaseio.com",
+    "project_id": "yasarprepclasscalculator",
+    "storage_bucket": "yasarprepclasscalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846814911858:android:c85af15cd9dd3baf",
+        "android_client_info": {
+          "package_name": "com.mhtkarakose.yeniyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846814911858-vcrbnjmvs1c01tf9cibhoikceh4god3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhtkarakose.yeniyu",
+            "certificate_hash": "19F1850FDC7AEDF2FC368CB4CCF155D3B2F83C45"
+          }
+        },
+        {
+          "client_id": "846814911858-jr37jr20kt6k75lqrmu3bhj6ole458cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uhRCVwBOVUyh6QuOOXrqWoppfrUpxUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846814911858-jr37jr20kt6k75lqrmu3bhj6ole458cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

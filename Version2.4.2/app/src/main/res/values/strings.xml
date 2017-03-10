@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YasarPrepClass Calculator</string>
+    <string name="title_activity_main2">YasarPrepClass Calculator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="title_activity_track_calculator">Kur notu hesaplama</string>
+    <string name="title_activity_kur_average">Kur ortalamasıyla geçme</string>
+    <string name="title_activity_kur_ile_gecme">Kur ortalamasıyla geçme</string>
+    <string name="title_activity_flat_ile_gecme"> Flat ile geçme</string>
+</resources>
